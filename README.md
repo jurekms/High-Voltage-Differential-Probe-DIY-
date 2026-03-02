@@ -4,7 +4,13 @@ DIY High-Voltage Differential Probe designed for safe measurement of floating an
 
 This project provides a battery-powered, fully isolated differential probe suitable for SMPS debugging, half/full-bridge analysis, and high-side measurements.
 
----
+### Author
+
+[DIY project by Andrew Levido](https://circuitcellar.com/research-design-hub/high-voltage-differential-probe/)
+
+### Modification
+
+[Modification project by Andrzej Szupiluk]
 
 ## ⚙️ Project Overview
 
@@ -44,20 +50,20 @@ Measurement performed using Digilent Discovery 3.
 
 ### PCB – Bare Board
 
-![PCB Front](docs/01.jpg)
-![PCB Back](docs/02.jpg)
+![PCB Front](docs/01_R.jpg)
+![PCB Back](docs/02_R.jpg)
 
 ### Assembly Progress
 
-![Stage 1](docs/03.jpg)
-![Stage 2](docs/04.jpg)
-![Stage 3](docs/05.jpg)
-![Stage 4](docs/06.jpg)
+![Stage 1](docs/03_R.jpg)
+![Stage 2](docs/04_R.jpg)
+![Stage 3](docs/05_R.jpg)
+![Stage 4](docs/06_R.jpg)
 
 ### Final Assembly
 
-![Assembled Board](docs/07.jpg)
-![Completed Probe](docs/end.jpg)
+![Assembled Board](docs/07_R.jpg)
+![Completed Probe](docs/end_R.jpg)
 
 ---
 
@@ -119,64 +125,14 @@ The probe was tested for:
 - Phase response
 - General stability under differential input conditions
 
----
 
-## ⚠️ Safety Notice
+## 📌 Build Status
 
-⚠ **WARNING – HIGH VOLTAGE DEVICE**
-
-This project is intended for experienced electronics users.
-
-- Always verify insulation distances.
-- Never operate without proper enclosure.
-- Do not exceed component voltage ratings.
-- Use only verified Li-Ion cells.
-- Double-check polarity before first power-up.
-
-The author assumes no responsibility for damage or injury caused by improper use.
-
----
-
-## 📁 Repository Structure
-
-```
-.
-├── docs/
-│   ├── 01.jpg
-│   ├── 02.jpg
-│   ├── 03.jpg
-│   ├── 04.jpg
-│   ├── 05.jpg
-│   ├── 06.jpg
-│   ├── 07.jpg
-│   ├── end.jpg
-│   └── analiza.jpg
-├── hardware/
-│   ├── schematic.pdf
-│   ├── pcb_files/
-│   └── bom.csv
-└── README.md
-```
-
----
-
-## 📌 Project Status
-
-✔ PCB designed  
-✔ Prototype assembled  
+✔ Probe assembled  
 ✔ Frequency response measured  
 ⬜ Bandwidth optimization  
 ⬜ Enclosure design  
 ⬜ Extended validation  
-
----
-
-## 📜 License
-
-Open hardware project.  
-Add your preferred license here (MIT, CERN-OHL, GPL, etc.).
-
----
 
 ### Author
 
