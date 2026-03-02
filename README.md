@@ -1,7 +1,7 @@
-# Wysokonapięciowa sonad rożnicowa / High-Voltage-Differential-Probe
-### Relacja z budowy  wysokonapięciowej sondy różnicowej
+# Relacja z budowy  wysokonapięciowej sondy różnicowej
+## High-Voltage-Differential-Probe
 
-Projekt przeznaczony do pomiarów w przetwornicach impulsowych (SMPS), pomiarów mostków H, analizy sygnałów na potencjale pływającym, pomiarów różnicowych bez uziemiania badanego obwodu, pomiaró torów mocy audio.
+### Sonda przeznaczona do pomiarów w przetwornicach impulsowych (SMPS), pomiarów mostków H, analizy sygnałów na potencjale pływającym, pomiarów różnicowych bez uziemiania badanego obwodu, pomiarów torów mocy audio.
 
 ## Architektura:
 
