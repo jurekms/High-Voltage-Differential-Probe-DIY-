@@ -4,12 +4,16 @@ DIY High-Voltage Differential Probe designed for safe measurement of floating an
 
 This project provides a battery-powered, fully isolated differential probe suitable for SMPS debugging, half/full-bridge analysis, and high-side measurements.
 
-### Author
+
+> ⚠️ **Disclaimer — Not an Original Design**
+>
+> This repository does **not** represent an original hardware design by the author.
+> The original project concept, schematic, and design files are sourced from external materials.
+> This repository documents the author’s **build process, observations, and measurements** for educational and reference purposes, and not as an original contribution to circuit design.
+>
+> If you are the original creator and have concerns about how your work is presented here, please contact the repository maintainer.
 
 [DIY project by Andrew Levido](https://circuitcellar.com/research-design-hub/high-voltage-differential-probe/)
-
-### Modification
-
 [Modification project by Andrzej Szupiluk]
 
 ## ⚙️ Project Overview
