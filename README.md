@@ -11,7 +11,7 @@ This project provides a battery-powered, fully isolated differential probe suita
 > The original project concept, schematic, and design files are sourced from external materials.
 > This repository documents the author’s **build process, observations, and measurements** for educational and reference purposes, and not as an original contribution to circuit design.
 > Author  Andrew Levido (https://circuitcellar.com/research-design-hub/high-voltage-differential-probe/)
-> Modified by Andrzej Szupiluk
+> and Modified by Andrzej Szupiluk
 
 ## ⚙️ Project Overview
 
